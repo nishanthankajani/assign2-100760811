@@ -1,0 +1,106 @@
+.wp-block-search__inside-wrapper{
+    background-color:antiquewhite;
+    width: 30%;
+}
+
+.wp-block-search__button{
+    border-radius: 10px;
+} 
+
+.site-main{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.site-branding{
+    font-size: 40px;
+    color: darkgreen;
+    letter-spacing: 2px;
+}
+
+.site-description{
+    margin-top: 20px;
+    color: darkgreen;
+}
+
+.primary-menu-container{
+    width: 100px;
+    line-height: 30px;
+}
+
+.primary-menu-list {
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.blocks-gallery-grid{
+    width: 80%;
+    border:darkgreen solid 3px;
+}
+
+.wp-block-latest-posts__list wp-block-latest-posts{
+    color: darkgreen;
+    margin-top: 15px;
+}
+
+.wp-block-latest-comments{
+    letter-spacing: 1px;
+}
+
+a.button{
+    background-color: lightgreen;
+
+}
+a.button:hover {
+    background-color: mediumaquamarine;
+}
+
+.site-name{
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.share-linkedin{
+    height: 40px;
+    width: 40px;
+}
+
+.entry-title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.has-text-align-center {
+
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.entry-content{
+    font-size: 20px;
+}
+
+.wp-block-columns {
+    background-color: gold;
+}
+
+.share-twitter{
+    height: 40px;
+    width: 40px;
+}
+
+
+.share-end{
+    height: 40px;
+    width: 40px;
+}
+
+.body {
+    background-color: khaki;
+    
+}
+
+.wp-block-column{
+    border-radius: 5px;
+    background-color: lightgreen;
+}
